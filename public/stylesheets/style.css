@@ -14,3 +14,15 @@ a {
 
 }
 
+#navBar {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  
+}
+
+#navBar a {
+  text-decoration: none;
+}
+
